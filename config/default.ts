@@ -7,15 +7,15 @@ export default {
     port: 1337,
     dbUri: "mongodb://localhost:27017/ts-be",
     saltWorkFactor: 10,
-    accessTokenTtl:'15m',
-    refreshTokenTtl: '1y',
-    publicKey:`-----BEGIN PUBLIC KEY-----
+    accessTokenTtl: "3m",
+    refreshTokenTtl: "1y",
+    publicKey: `-----BEGIN PUBLIC KEY-----
 MIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQC/JZnFSzA3Wogv96ORAObdr7mn
 kCQZBHbN9uY+O1wb31+wD3jx9PEJyPT0CbaJbjhMnRSf4iILy5e2HrFyt/nztYLy
 7gETI80s7VA88gAkNxU6wOGGxbMbyZqyugUpqtMxU13sYuOOJqSlkk0JbOsyHZj0
 vsFSRUaUMQtpNJyazQIDAQAB
 -----END PUBLIC KEY-----`,
-    privateKey:`-----BEGIN RSA PRIVATE KEY-----
+    privateKey: `-----BEGIN RSA PRIVATE KEY-----
 MIICXAIBAAKBgQC/JZnFSzA3Wogv96ORAObdr7mnkCQZBHbN9uY+O1wb31+wD3jx
 9PEJyPT0CbaJbjhMnRSf4iILy5e2HrFyt/nztYLy7gETI80s7VA88gAkNxU6wOGG
 xbMbyZqyugUpqtMxU13sYuOOJqSlkk0JbOsyHZj0vsFSRUaUMQtpNJyazQIDAQAB
@@ -29,5 +29,5 @@ DNWuxdO2nty8paEIMZt+zeGf2x2i4lL0xvl+oizzn78W17eaUOAoFG8DYwJAY6fQ
 T3hbXn5GZhQs0okiixAf/MhugPIUOUXOJz61nfQYnwIWkk2df7kjas8bIm26FEhy
 WWSwE0il+End3g8NBwJBAN+/GJslwojKr8mp2I/ZNWvGm6M+2oikBAPTy4S93dRf
 YAw5Ec2Ubj6bgzxUJzhXRksf4U4QZDia5cD9H6Vylp0=
------END RSA PRIVATE KEY-----`
-}
+-----END RSA PRIVATE KEY-----`,
+};
