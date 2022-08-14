@@ -7,7 +7,7 @@ import routes from "./routes";
 import deserializeUser from "./middleware/deserializeUser";
 
 console.log("bello");
-const port = config.get<number>("port");
+const port = config.get<number>("port") || process.env.PORT;
 
 const app = express();
 
