@@ -15,6 +15,7 @@ Authorization and Authentication via JWT
 | JWT    | JSON Web Token |
 | Sanity CMS      | Content Manager  |
 | Mongo Atlas | Enabling Cloud Database      |
+| Postman | Testing API endpoint    |
 | Heroku | Deployment Page    |
 
 
