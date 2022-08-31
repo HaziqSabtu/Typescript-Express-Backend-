@@ -11,7 +11,7 @@ Authorization and Authentication via JWT
 | Technology  | Description                  |
 | ----------- | ---------------------------- |
 | TypeScript  | Static Typing and TypeSafety |
-| Expressj    | Minimalist web framework for Node.js     |
+| Expressjs    | Minimalist web framework for Node.js     |
 | JWT    | JSON Web Token |
 | Sanity CMS      | Content Manager  |
 | Mongo Atlas | Enabling Cloud Database      |
