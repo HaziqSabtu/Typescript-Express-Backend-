@@ -1,6 +1,6 @@
 # Typescript-Express-Backend :computer:
 
-Backend Framework for [Rooster-V2](https://rooster-react.netlify.app/) :rooster:
+Backend Framework for [Netlify](https://rooster-react.netlify.app/) -  [GitHub](https://github.com/HaziqSabtu/rooster-Netlify-V2) :rooster:
 
 Handling User Request from Frontend via API
 
